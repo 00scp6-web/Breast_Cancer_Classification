@@ -1,0 +1,5 @@
+Stage,Number of Features
+Original Features,30
+After Variance Filtering,30
+After Correlation Filtering,23
+After RFE,10
